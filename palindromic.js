@@ -18,3 +18,11 @@ function palindromeNumberGenerator(value){
 }
 
 console.log(palindromeNumberGenerator(45));
+
+//check if number = reversed
+//  object.value = number;
+//  object.steps = steps;
+//  return object;
+//else
+//  value = value + reversed
+//step++
